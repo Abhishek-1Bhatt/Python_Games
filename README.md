@@ -1,2 +1,2 @@
 # Python_Projects
-Projects/Programs made in the process of mastering Python
+Projects/Programs made in the process of  Python learning python
