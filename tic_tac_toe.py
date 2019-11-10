@@ -32,7 +32,7 @@ def win_check(board,p1):
             return "Player 1 wins!"
         else:
             return "Player 2 wins!"
-    elif board[2]==board[5]==board[6]:
+    elif board[2]==board[4]==board[6]:
         if board[2]==p1:
             return "Player 1 wins!"
         else:
