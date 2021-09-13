@@ -1,2 +1,2 @@
-# Python_Projects
-Projects/Programs made in the process of  Python learning 
+# Python_Games
+Simple games developed just for fun with python:)
